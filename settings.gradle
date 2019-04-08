@@ -1,0 +1,8 @@
+rootProject.name = 'spring2'
+include 'jdbc1'
+include 'preparestatement'
+include 'daodemo'
+include 'jdbcdao'
+include 'c3p0'
+include 'DBUtilsDemo'
+
