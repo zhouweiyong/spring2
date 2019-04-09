@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/jdbc1" />
             <option value="$PROJECT_DIR$/jdbcdao" />
             <option value="$PROJECT_DIR$/preparestatement" />
+            <option value="$PROJECT_DIR$/transaction" />
           </set>
         </option>
       </GradleProjectSettings>
