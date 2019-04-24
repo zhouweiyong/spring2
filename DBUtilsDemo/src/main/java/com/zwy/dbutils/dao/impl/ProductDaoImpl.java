@@ -81,6 +81,7 @@ public class ProductDaoImpl implements ProductDao {
             List<ProductBean> list = runner.query(new ComboPooledDataSource().getConnection(),
                     sql,
                     new BeanListHandler<ProductBean>(ProductBean.class));
+
             return list;
         } catch (Exception e) {
             e.printStackTrace();

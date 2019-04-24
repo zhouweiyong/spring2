@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc0b83d-43e9-4621-9262-cc631c21a778" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/transaction/src/main/java/com/zwy/transaction/utils/DbUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transaction/src/main/java/com/zwy/transaction/utils/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/src/main/resources/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transaction/src/test/java/com/zwy/transaction/TransactionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/impl/ProductDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/impl/ProductDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -117,82 +121,53 @@
     <session id="-1917390122">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gradle" value="2" />
-          <entry key="java" value="15" />
-          <entry key="xml" value="1" />
+          <entry key="gradle" value="4" />
+          <entry key="java" value="19" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="15" />
-          <entry key="XML" value="1" />
+          <entry key="Groovy" value="4" />
+          <entry key="JAVA" value="19" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gradle" value="3" />
-          <entry key="java" value="466" />
+          <entry key="gradle" value="5" />
+          <entry key="java" value="713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="466" />
+          <entry key="Groovy" value="5" />
+          <entry key="JAVA" value="713" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/c3p0/src/test/java/com/zwy/c3p0/C3p0Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/transaction/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/transaction/src/main/java/com/zwy/transaction/utils/DbUtils.java">
+        <entry file="file://$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/impl/ProductDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/transaction/src/main/resources/c3p0-config.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DBUtilsDemo/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="66" />
+            <state relative-caret-position="458">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
             </state>
           </provider>
         </entry>
@@ -1254,7 +1229,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="15544693504835" />
+        <entry key="$PROJECT_DIR$" value="15544795156976" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/DBUtilsDemo/build.gradle" value="1869078841" />
         <entry key="$PROJECT_DIR$/DaoDemo/build.gradle" value="3408881023" />
@@ -1266,7 +1241,7 @@
         <entry key="$PROJECT_DIR$/jdbcdao/build.gradle" value="2753157143" />
         <entry key="$PROJECT_DIR$/preparestatement/build.gradle" value="2753157143" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1591799255" />
-        <entry key="$PROJECT_DIR$/transaction/build.gradle" value="4188689250" />
+        <entry key="$PROJECT_DIR$/transaction/build.gradle" value="2879843276" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1459,12 +1434,13 @@
         <option value="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/bean/ProductBean.java" />
         <option value="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/ProductDao.java" />
         <option value="$PROJECT_DIR$/DBUtilsDemo/build.gradle" />
-        <option value="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/impl/ProductDaoImpl.java" />
         <option value="$PROJECT_DIR$/DBUtilsDemo/src/test/java/com/zwy/dbutils/DbutilsTest.java" />
         <option value="$PROJECT_DIR$/c3p0/src/test/java/com/zwy/c3p0/C3p0XmlTest.java" />
         <option value="$PROJECT_DIR$/c3p0/src/main/java/com/zwy/c3p0/DbUtils.java" />
-        <option value="$PROJECT_DIR$/transaction/build.gradle" />
         <option value="$PROJECT_DIR$/transaction/src/main/java/com/zwy/transaction/utils/DbUtils.java" />
+        <option value="$PROJECT_DIR$/transaction/src/test/java/com/zwy/transaction/TransactionTest.java" />
+        <option value="$PROJECT_DIR$/transaction/build.gradle" />
+        <option value="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/impl/ProductDaoImpl.java" />
       </list>
     </option>
   </component>
@@ -1475,9 +1451,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="620" />
-    <option name="y" value="66" />
-    <option name="width" value="1217" />
+    <option name="x" value="939" />
+    <option name="y" value="62" />
+    <option name="width" value="941" />
     <option name="height" value="968" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -1575,6 +1551,94 @@
             <path>
               <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dbutils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dbutils" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dbutils" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DBUtilsDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dbutils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="preparestatement" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -1641,6 +1705,14 @@
               <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="transaction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="transaction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -1651,12 +1723,21 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="transaction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1665,7 +1746,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554776619491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554983339631" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -1675,18 +1756,22 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workplace\spring2\transaction\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zwy.transaction.utils" />
       <recent name="com.zwy.dbutils.bean" />
       <recent name="com.zwy.dbutils.dao" />
       <recent name="com.zwy.dao.utils" />
       <recent name="com.zwy.pre" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workplace\spring2\transaction\src\main\java\com\zwy\transaction\utils" />
       <recent name="D:\workplace\SpringDemo2\DBUtilsDemo\src\main\java\com\zwy\dbutils\dao" />
       <recent name="D:\workplace\SpringDemo2\DBUtilsDemo\src\test\java" />
       <recent name="D:\workplace\SpringDemo2\DBUtilsDemo\src\main\resources" />
       <recent name="D:\workplace\SpringDemo2\jdbcdao\src\main\java\com\zwy\dao" />
-      <recent name="D:\workplace\SpringDemo2\jdbcdao\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1701,7 +1786,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.C3p0XmlTest.findAll">
+  <component name="RunManager" selected="JUnit.TransactionTest.test1">
     <configuration name="C3p0XmlTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="c3p0_test" />
       <extension name="coverage">
@@ -1713,22 +1798,6 @@
       <option name="PACKAGE_NAME" value="com.zwy.c3p0" />
       <option name="MAIN_CLASS_NAME" value="com.zwy.c3p0.C3p0XmlTest" />
       <option name="METHOD_NAME" value="findAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DbutilsTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DBUtilsDemo_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zwy.dbutils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zwy.dbutils" />
-      <option name="MAIN_CLASS_NAME" value="com.zwy.dbutils.DbutilsTest" />
-      <option name="METHOD_NAME" value="add" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -1777,6 +1846,22 @@
       <option name="PACKAGE_NAME" value="com.zwy.dbutils" />
       <option name="MAIN_CLASS_NAME" value="com.zwy.dbutils.DbutilsTest" />
       <option name="METHOD_NAME" value="modify" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transaction_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zwy.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zwy.transaction" />
+      <option name="MAIN_CLASS_NAME" value="com.zwy.transaction.TransactionTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -1831,18 +1916,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.DbutilsTest.findAll" />
-      <item itemvalue="JUnit.DbutilsTest.add" />
       <item itemvalue="JUnit.DbutilsTest.findById" />
       <item itemvalue="JUnit.DbutilsTest.modify" />
       <item itemvalue="JUnit.C3p0XmlTest.findAll" />
+      <item itemvalue="JUnit.TransactionTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TransactionTest.test1" />
         <item itemvalue="JUnit.C3p0XmlTest.findAll" />
         <item itemvalue="JUnit.DbutilsTest.findAll" />
         <item itemvalue="JUnit.DbutilsTest.findById" />
         <item itemvalue="JUnit.DbutilsTest.modify" />
-        <item itemvalue="JUnit.DbutilsTest.add" />
       </list>
     </recent_temporary>
   </component>
@@ -1870,7 +1955,10 @@
       <workItem from="1554717631794" duration="13000" />
       <workItem from="1554719410069" duration="165000" />
       <workItem from="1554722232552" duration="3647000" />
-      <workItem from="1554775793715" duration="812000" />
+      <workItem from="1554775793715" duration="2084000" />
+      <workItem from="1554875873819" duration="3971000" />
+      <workItem from="1554947825157" duration="1809000" />
+      <workItem from="1555580094787" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1554715571537</created>
@@ -1893,16 +1981,17 @@
       <option name="project" value="LOCAL" />
       <updated>1554717600182</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1554776630035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554776630035</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DbutilsTest_findAll - 2019.04.08 at 17h 15m 17s.xml">
-      <configuration name="DbutilsTest.findAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DbutilsTest_findById - 2019.04.08 at 17h 15m 51s.xml">
-      <configuration name="DbutilsTest.findById" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DbutilsTest_add - 2019.04.08 at 17h 16m 12s.xml">
       <configuration name="DbutilsTest.add" configurationId="JUnit" />
     </history-entry>
@@ -1927,9 +2016,15 @@
     <history-entry file="C3p0XmlTest_findAll - 2019.04.08 at 20h 18m 58s.xml">
       <configuration name="C3p0XmlTest.findAll" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TransactionTest_test1 - 2019.04.10 at 14h 30m 24s.xml">
+      <configuration name="TransactionTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransactionTest_test1 - 2019.04.10 at 14h 32m 57s.xml">
+      <configuration name="TransactionTest.test1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39960000" />
+    <option name="totallyTimeSpent" value="47260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1941,9 +2036,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="703" y="81" width="1217" height="968" extended-state="0" />
+    <frame x="939" y="62" width="941" height="968" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939975" visible="true" weight="0.26361278" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939975" visible="true" weight="0.2724177" />
       <window_info id="Structure" order="1" sideWeight="0.5006002" side_tool="true" weight="0.23336214" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1952,7 +2048,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49956784" weight="0.37214887" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49956784" visible="true" weight="0.3205282" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1993,7 +2089,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jdbc1/src/test/java/com/zwy/jdbc/TestCRUD.java" />
     <entry file="file://$PROJECT_DIR$/jdbc1/src/main/java/com/zwy/jdbc/DatabaseQuery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -2037,13 +2132,6 @@
     <entry file="file://$PROJECT_DIR$/daodemo/src/main/resources/jdbc.properties" />
     <entry file="file://$PROJECT_DIR$/daodemo/src/main/java/com/zwy/dao/bean/ProductBean.java" />
     <entry file="file://$PROJECT_DIR$/daodemo/src/main/java/com/zwy/dao/dao/ProductDao.java" />
-    <entry file="file://$PROJECT_DIR$/preparestatement/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daodemo/src/main/java/com/zwy/dao/AddController.java" />
     <entry file="file://$PROJECT_DIR$/daodemo/src/main/java/com/zwy/dao/dao/impl/ProductDaoImpl.java" />
     <entry file="file://$PROJECT_DIR$/preparestatement/src/test/java/com/zwy/pre/StatementTest.java">
@@ -2142,13 +2230,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/impl/ProductDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jdbc1/src/test/java/com/zwy/jdbc/CRUDTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -2160,13 +2241,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBUtilsDemo/src/test/java/com/zwy/dbutils/DbutilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -2209,13 +2283,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-77">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2226,13 +2293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/c3p0/src/test/java/com/zwy/c3p0/C3p0Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DBUtilsDemo/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -2240,20 +2300,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/c3p0/src/test/java/com/zwy/c3p0/C3p0Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/transaction/src/main/resources/c3p0-config.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/transaction/build.gradle">
+    <entry file="file://$PROJECT_DIR$/preparestatement/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="375">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/transaction/src/main/java/com/zwy/transaction/utils/DbUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="275">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction/src/test/java/com/zwy/transaction/TransactionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBUtilsDemo/src/test/java/com/zwy/dbutils/DbutilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/impl/ProductDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>
