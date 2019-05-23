@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+<ul>
+    <li><a href="/balance?name=张三">张三余额</a></li>
+    <li><a href="/balance?name=李四">李四余额</a></li>
+    <li><a href="">张三转账给李四</a>
+        <form method="post" action="/ztol">
+            <input type="number" name="amount"/>
+            <input type="submit" value="转账"/>
+        </form>
+    </li>
+    <li><a href="">李四转账给张三</a>
+        <form action="/ltoz" method="post">
+            <input type="number" name="amount"/>
+            <input type="submit" value="转账"/>
+        </form>
+    </li>
+</ul>
+</body>
+</html>

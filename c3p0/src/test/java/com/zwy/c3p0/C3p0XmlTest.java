@@ -32,6 +32,7 @@ public class C3p0XmlTest {
 
                 System.out.println("id:" + id + " name:" + name + " price:" + price);
             }
+            rs.close();
             ps.close();
             conn.close();
 

@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo.iml" group="DBUtilsDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo_main.iml" group="DBUtilsDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo_test.iml" group="DBUtilsDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceDemo.iml" group="ServiceDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceDemo/ServiceDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceDemo/ServiceDemo_main.iml" group="ServiceDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceDemo/ServiceDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceDemo/ServiceDemo_test.iml" group="ServiceDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC.iml" group="SpringIOC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_main.iml" group="SpringIOC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_test.iml" group="SpringIOC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/c3p0/c3p0.iml" filepath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0.iml" group="c3p0" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/c3p0/c3p0_main.iml" filepath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0_main.iml" group="c3p0" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/c3p0/c3p0_test.iml" filepath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0_test.iml" group="c3p0" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/daodemo.iml" filepath="$PROJECT_DIR$/.idea/modules/daodemo.iml" group="daodemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1.iml" group="jdbc1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1_main.iml" group="jdbc1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1_test.iml" group="jdbc1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao.iml" group="jdbcdao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao_main.iml" group="jdbcdao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao_test.iml" group="jdbcdao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement.iml" filepath="$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement.iml" group="preparestatement" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement_main.iml" filepath="$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement_main.iml" group="preparestatement" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement_test.iml" filepath="$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement_test.iml" group="preparestatement" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring2.iml" filepath="$PROJECT_DIR$/.idea/modules/spring2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daodemo/spring2-daodemo.iml" filepath="$PROJECT_DIR$/.idea/modules/daodemo/spring2-daodemo.iml" group="daodemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring2_main.iml" group="spring2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring2_test.iml" group="spring2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transaction/transaction.iml" filepath="$PROJECT_DIR$/.idea/modules/transaction/transaction.iml" group="transaction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transaction/transaction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/transaction/transaction_main.iml" group="transaction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transaction/transaction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/transaction/transaction_test.iml" group="transaction" />
     </modules>
   </component>
 </project>
