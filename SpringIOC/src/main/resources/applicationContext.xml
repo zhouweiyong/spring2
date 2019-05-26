@@ -15,6 +15,53 @@
 
 
     <!--使用注解实现IOC，设置注解扫描路径-->
-    <context:component-scan base-package="com.zwy.ioc.service.impl"></context:component-scan>
+    <context:component-scan base-package="com.zwy.ioc"></context:component-scan>
 
+    <!--依赖注入，带参构造-->
+    <bean id="us3" class="com.zwy.ioc.service.impl.User3ServiceImpl" scope="prototype">
+        <!--通过这行配置，可以让spring匹配有参构造，name:构造参数的名称，value：参数的值-->
+        <constructor-arg name="name" value="张三"></constructor-arg>
+    </bean>
+
+    <!--依赖注入，通过set方法-->
+    <bean id="us4" class="com.zwy.ioc.service.impl.User4ServiceImpl" scope="prototype">
+        <!--property标签对应的是代码里面set方法-->
+        <!--name：属性的名称-->
+        <!--value：要注入的值-->
+        <property name="name" value="李四"/>
+    </bean>
+
+    <bean id="us5" class="com.zwy.ioc.service.impl.User5ServiceImpl" scope="prototype">
+        <property name="name">
+            <array>
+                <value>李四</value>
+                <value>王五</value>
+            </array>
+        </property>
+    </bean>
+    <bean id="us6" class="com.zwy.ioc.service.impl.User6ServiceImpl" scope="prototype">
+        <property name="name">
+            <list>
+                <value>李四</value>
+                <value>钱六</value>
+            </list>
+        </property>
+    </bean>
+
+
+    <bean id="us7" class="com.zwy.ioc.service.impl.User7ServiceImpl" scope="prototype">
+        <property name="name">
+            <map>
+                <entry key="name1" value="周星驰"/>
+                <entry key="name2" value="刘德华"/>
+            </map>
+        </property>
+    </bean>
+
+    <bean id="userBean" class="com.zwy.ioc.bean.UserBean">
+        <property name="name" value="张学友"></property>
+    </bean>
+    <bean id="us8" class="com.zwy.ioc.service.impl.User8ServiceImpl" scope="prototype">
+        <property name="userBean" ref="userBean"/>
+    </bean>
 </beans>
