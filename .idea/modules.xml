@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceDemo.iml" group="ServiceDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceDemo/ServiceDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceDemo/ServiceDemo_main.iml" group="ServiceDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceDemo/ServiceDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceDemo/ServiceDemo_test.iml" group="ServiceDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAOP.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAOP.iml" group="SpringAOP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAOP/SpringAOP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAOP/SpringAOP_main.iml" group="SpringAOP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAOP/SpringAOP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAOP/SpringAOP_test.iml" group="SpringAOP" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC.iml" group="SpringIOC" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_main.iml" group="SpringIOC" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_test.iml" group="SpringIOC" />

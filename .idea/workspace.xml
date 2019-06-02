@@ -1,123 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bc0b83d-43e9-4621-9262-cc631c21a778" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_annotations_api_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/DBUtilsDemo/DBUtilsDemo_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringIOC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/daodemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/daodemo/spring2-daodemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/jdbc1/jdbc1_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/jdbcdao/jdbcdao_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/preparestatement/preparestatement_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/spring2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/spring2_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/spring2_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/transaction/transaction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/transaction/transaction_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/transaction/transaction_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/account.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/bean/AccountBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/controller/TransferController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/utils/DbUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/resources/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/resources/static/fail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/resources/static/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/main/resources/templates/balance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceDemo/src/test/java/com/zwy/service/AccountDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIOC/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIOC/src/main/resources/applicationContext.xml" afterDir="false" />
+    <list default="true" id="4bc0b83d-43e9-4621-9262-cc631c21a778" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringAOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringAOP/SpringAOP_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringAOP/SpringAOP_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/utils/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBUtilsDemo/out/production/classes/com/zwy/dbutils/bean/ProductBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBUtilsDemo/out/production/classes/com/zwy/dbutils/dao/ProductDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBUtilsDemo/out/production/classes/com/zwy/dbutils/dao/impl/ProductDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBUtilsDemo/out/test/classes/com/zwy/dbutils/DbutilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c3p0/out/production/classes/com/zwy/c3p0/DbUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/c3p0/out/production/classes/com/zwy/c3p0/DbUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c3p0/out/test/classes/com/zwy/c3p0/C3p0XmlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/c3p0/out/test/classes/com/zwy/c3p0/C3p0XmlTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c3p0/src/test/java/com/zwy/c3p0/C3p0XmlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/c3p0/src/test/java/com/zwy/c3p0/C3p0XmlTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc1/out/production/classes/com/zwy/jdbc/DatabaseAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc1/out/production/classes/com/zwy/jdbc/DatabaseAdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc1/out/production/classes/com/zwy/jdbc/DatabaseQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc1/out/production/classes/com/zwy/jdbc/DatabaseQuery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc1/out/production/classes/com/zwy/jdbc/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc1/out/production/classes/com/zwy/jdbc/MainApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc1/out/test/classes/com/zwy/jdbc/CRUDTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc1/out/test/classes/com/zwy/jdbc/CRUDTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbcdao/out/production/classes/com/zwy/dao/dao/impl/ProductDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbcdao/out/production/classes/com/zwy/dao/dao/impl/ProductDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preparestatement/out/test/classes/com/zwy/pre/StatementTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/preparestatement/out/test/classes/com/zwy/pre/StatementTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -150,6 +50,9 @@
     <ignored path="$PROJECT_DIR$/SpringIOC/.gradle/" />
     <ignored path="$PROJECT_DIR$/SpringIOC/build/" />
     <ignored path="$PROJECT_DIR$/SpringIOC/out/" />
+    <ignored path="$PROJECT_DIR$/SpringAOP/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringAOP/build/" />
+    <ignored path="$PROJECT_DIR$/SpringAOP/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,106 +214,80 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="account" value="9" />
-          <entry key="gradle" value="5" />
+          <entry key="class" value="4" />
+          <entry key="gradle" value="7" />
           <entry key="html" value="9" />
-          <entry key="java" value="72" />
+          <entry key="java" value="101" />
           <entry key="kt" value="1" />
           <entry key="properties" value="1" />
           <entry key="sql" value="11" />
-          <entry key="xml" value="8" />
+          <entry key="xml" value="11" />
+          <entry key="xsd" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="4" />
           <entry key="Database Element" value="9" />
-          <entry key="Groovy" value="5" />
+          <entry key="Groovy" value="7" />
           <entry key="HTML" value="9" />
-          <entry key="JAVA" value="72" />
+          <entry key="JAVA" value="101" />
           <entry key="Kotlin" value="1" />
           <entry key="Properties" value="1" />
           <entry key="SQL" value="6" />
           <entry key="Scratch" value="5" />
-          <entry key="XML" value="8" />
+          <entry key="XML" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="36" />
           <entry key="dummy" value="3" />
-          <entry key="gradle" value="11" />
+          <entry key="gradle" value="15" />
           <entry key="html" value="320" />
-          <entry key="java" value="1991" />
+          <entry key="java" value="2860" />
           <entry key="kt" value="6" />
           <entry key="sql" value="255" />
-          <entry key="xml" value="204" />
+          <entry key="txt" value="50" />
+          <entry key="xml" value="874" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="11" />
+          <entry key="Groovy" value="15" />
           <entry key="HTML" value="320" />
-          <entry key="JAVA" value="1991" />
+          <entry key="JAVA" value="2860" />
           <entry key="Kotlin" value="6" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="53" />
           <entry key="SQL" value="138" />
           <entry key="Scratch" value="153" />
-          <entry key="XML" value="204" />
+          <entry key="XML" value="874" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIOC/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/MainTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-              <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -484,6 +361,10 @@
               <ExternalProjectPojo>
                 <option name="name" value=":ServiceDemo" />
                 <option name="path" value="$PROJECT_DIR$/ServiceDemo" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":SpringAOP" />
+                <option name="path" value="$PROJECT_DIR$/SpringAOP" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":SpringIOC" />
@@ -898,6 +779,137 @@
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':ServiceDemo'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ServiceDemo" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringAOP">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':SpringAOP'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':SpringAOP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':SpringAOP'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':SpringAOP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':SpringAOP'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':SpringAOP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':SpringAOP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':SpringAOP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':SpringAOP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringAOP" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
@@ -1749,11 +1761,12 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="18672430965000" />
+        <entry key="$PROJECT_DIR$" value="20232783941000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/DBUtilsDemo/build.gradle" value="1869078841" />
         <entry key="$PROJECT_DIR$/DaoDemo/build.gradle" value="3408881023" />
         <entry key="$PROJECT_DIR$/ServiceDemo/build.gradle" value="1205165761" />
+        <entry key="$PROJECT_DIR$/SpringAOP/build.gradle" value="3060337714" />
         <entry key="$PROJECT_DIR$/SpringIOC/build.gradle" value="2865056507" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3603793419" />
         <entry key="$PROJECT_DIR$/c3p0/build.gradle" value="2879843276" />
@@ -1762,7 +1775,7 @@
         <entry key="$PROJECT_DIR$/jdbc1/build.gradle" value="2753157143" />
         <entry key="$PROJECT_DIR$/jdbcdao/build.gradle" value="2753157143" />
         <entry key="$PROJECT_DIR$/preparestatement/build.gradle" value="2753157143" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="2668748319" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2435384575" />
         <entry key="$PROJECT_DIR$/transaction/build.gradle" value="2879843276" />
       </map>
     </option>
@@ -1791,6 +1804,13 @@
                     <value>
                       <ExternalModuleBuildClasspathPojo>
                         <option name="path" value="$PROJECT_DIR$/ServiceDemo" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/SpringAOP">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/SpringAOP" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -1941,22 +1961,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/daodemo/src/main/java/com/zwy/dao/dao/ProductDao.java" />
-        <option value="$PROJECT_DIR$/daodemo/src/main/java/com/zwy/dao/dao/impl/ProductDaoImpl.java" />
-        <option value="$PROJECT_DIR$/daodemo/src/main/java/com/zwy/dao/AddController.java" />
-        <option value="$PROJECT_DIR$/jdbc1/build.gradle" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/daodemo/src/test/java/com/zwy/dao/ProductDaoTest.java" />
-        <option value="$PROJECT_DIR$/daodemo/src/test/java/com/zwy/dao/Test.java" />
-        <option value="$PROJECT_DIR$/jdbcdao/build.gradle" />
-        <option value="$PROJECT_DIR$/jdbcdao/src/test/java/com/zwy/dao/DaoTest.java" />
-        <option value="$PROJECT_DIR$/jdbcdao/src/main/java/com/zwy/dao/dao/impl/ProductDaoImpl.java" />
-        <option value="$PROJECT_DIR$/c3p0/build.gradle" />
-        <option value="$PROJECT_DIR$/c3p0/src/test/java/com/zwy/c3p0/C3p0Test.java" />
-        <option value="$PROJECT_DIR$/c3p0/src/main/resources/c3p0-config.xml" />
-        <option value="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/ProductBean.java" />
-        <option value="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/bean/ProductBean.java" />
-        <option value="$PROJECT_DIR$/DBUtilsDemo/src/main/java/com/zwy/dbutils/dao/ProductDao.java" />
         <option value="$PROJECT_DIR$/DBUtilsDemo/src/test/java/com/zwy/dbutils/DbutilsTest.java" />
         <option value="$PROJECT_DIR$/c3p0/src/main/java/com/zwy/c3p0/DbUtils.java" />
         <option value="$PROJECT_DIR$/transaction/src/main/java/com/zwy/transaction/utils/DbUtils.java" />
@@ -1990,8 +1994,24 @@
         <option value="$PROJECT_DIR$/SpringIOC/build.gradle" />
         <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/UserService.java" />
         <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/MainTest.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User2ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/bean/UserBean.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User8ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User7ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User6ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User5ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User4ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User3ServiceImpl.java" />
         <option value="$PROJECT_DIR$/SpringIOC/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/MainTest.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/bean/AddressBean.java" />
+        <option value="$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User9ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SpringAOP/build.gradle" />
+        <option value="$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/service/UserService.java" />
+        <option value="$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/utils/Logger.java" />
+        <option value="$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/MainTest.java" />
+        <option value="$PROJECT_DIR$/SpringAOP/src/main/resources/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -2002,9 +2022,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="290" />
-    <option name="y" value="39" />
-    <option name="width" value="1597" />
+    <option name="x" value="1047" />
+    <option name="y" value="23" />
+    <option name="width" value="1361" />
     <option name="height" value="931" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -2049,6 +2069,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2099,7 +2120,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ioc" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
@@ -2110,7 +2131,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ioc" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
@@ -2124,7 +2144,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -2140,7 +2159,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558630888460" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559493883683" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -2151,22 +2170,22 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workplace\spring2\transaction\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zwy.service.utils" />
-      <recent name="com.zwy.transaction.utils" />
-      <recent name="com.zwy.dbutils.bean" />
-      <recent name="com.zwy.dbutils.dao" />
-      <recent name="com.zwy.dao.utils" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ServiceDemo/src/main/resources" />
       <recent name="D:\workplace\spring2\transaction\src\main\java\com\zwy\transaction\utils" />
       <recent name="D:\workplace\SpringDemo2\DBUtilsDemo\src\main\java\com\zwy\dbutils\dao" />
       <recent name="D:\workplace\SpringDemo2\DBUtilsDemo\src\test\java" />
       <recent name="D:\workplace\SpringDemo2\DBUtilsDemo\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zwy.ioc.service.impl" />
+      <recent name="com.zwy.service.utils" />
+      <recent name="com.zwy.transaction.utils" />
+      <recent name="com.zwy.dbutils.bean" />
+      <recent name="com.zwy.dbutils.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workplace\spring2\transaction\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2181,7 +2200,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest">
+  <component name="RunManager" selected="Application.MainTest (1)">
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zwy.aop.MainTest" />
+      <module name="SpringAOP_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zwy.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zwy.ioc.MainTest" />
       <module name="SpringIOC_main" />
@@ -2191,22 +2223,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountDaoTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ServiceDemo_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zwy.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zwy.service" />
-      <option name="MAIN_CLASS_NAME" value="com.zwy.service.AccountDaoTest" />
-      <option name="METHOD_NAME" value="findAll" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -2305,18 +2321,18 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.MainApp" />
-      <item itemvalue="JUnit.AccountDaoTest.findAll" />
       <item itemvalue="JUnit.AccountDaoTest.findByName" />
       <item itemvalue="JUnit.AccountDaoTest.zToL" />
       <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.MainTest (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest (1)" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Spring Boot.MainApp" />
         <item itemvalue="JUnit.AccountDaoTest.zToL" />
         <item itemvalue="JUnit.AccountDaoTest.findByName" />
-        <item itemvalue="JUnit.AccountDaoTest.findAll" />
       </list>
     </recent_temporary>
   </component>
@@ -2356,6 +2372,12 @@
       <workItem from="1557851951445" duration="3941000" />
       <workItem from="1558021699503" duration="6570000" />
       <workItem from="1558627722540" duration="2877000" />
+      <workItem from="1558631007985" duration="186000" />
+      <workItem from="1558801337804" duration="3481000" />
+      <workItem from="1558873919906" duration="5990000" />
+      <workItem from="1559146374023" duration="1123000" />
+      <workItem from="1559317626070" duration="481000" />
+      <workItem from="1559489531419" duration="3646000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1554715571537</created>
@@ -2385,7 +2407,28 @@
       <option name="project" value="LOCAL" />
       <updated>1554776630035</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="SpringIOC">
+      <created>1558631134597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558631134597</updated>
+    </task>
+    <task id="LOCAL-00006" summary="SpringIOC&#10;1，xml方式&#10;2，注解方式">
+      <created>1558803740925</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558803740925</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SpringIOC&#10;注入各种类型数据">
+      <created>1558893645064</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558893645064</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2421,7 +2464,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75022000" />
+    <option name="totallyTimeSpent" value="89929000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2433,10 +2476,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="792" y="38" width="1597" height="931" extended-state="0" />
-    <editor active="true" />
+    <frame x="1047" y="23" width="1361" height="931" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939975" visible="true" weight="0.24180064" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939975" visible="true" weight="0.27445033" />
       <window_info id="Structure" order="1" sideWeight="0.5006002" side_tool="true" weight="0.23336214" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -2446,7 +2488,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49956784" weight="0.3432658" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49956784" weight="0.4600715" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39690107" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2484,7 +2526,10 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="SpringIOC" />
+    <MESSAGE value="SpringIOC&#10;1，xml方式&#10;2，注解方式" />
+    <MESSAGE value="SpringIOC&#10;注入各种类型数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringIOC&#10;注入各种类型数据" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2522,133 +2567,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/transaction/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jdbcdao/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jdbcdao/src/main/java/com/zwy/dao/utils/JDBCUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBUtilsDemo/src/main/resources/c3p0-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jdbcdao/src/main/java/com/zwy/dao/dao/impl/ProductDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/efefc155-627d-4b5a-9f6e-7de480ccc0b8/console_1.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction/src/test/java/com/zwy/transaction/TransactionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transaction/src/main/java/com/zwy/transaction/utils/DbUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="10" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBUtilsDemo/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="19" selection-start-line="16" selection-start-column="4" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceDemo/src/main/resources/static/error.html" />
-    <entry file="file://$PROJECT_DIR$/ServiceDemo/src/main/resources/static/success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBUtilsDemo/src/test/java/com/zwy/dbutils/DbutilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceDemo/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceDemo/src/main/java/com/zwy/service/service/AccountService.kt" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="127" column="12" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mchange/c3p0/0.9.5.4/c3bebeb3a803901e8bb0707cb85abe22232fee9a/c3p0-0.9.5.4-sources.jar!/com/mchange/v2/c3p0/impl/PoolBackedDataSourceBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="262" selection-start-line="262" selection-end-line="262" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mchange/c3p0/0.9.5.4/c3bebeb3a803901e8bb0707cb85abe22232fee9a/c3p0-0.9.5.4-sources.jar!/com/mchange/v2/c3p0/impl/AbstractPoolBackedDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="523" selection-start-line="523" selection-end-line="523" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c3p0/src/main/java/com/zwy/c3p0/DbUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c3p0/src/test/java/com/zwy/c3p0/C3p0Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/efefc155-627d-4b5a-9f6e-7de480ccc0b8/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.15/88e2c0d4108b8660ae1f138d70b4be6346eb7665/mysql-connector-java-8.0.15-sources.jar!/com/mysql/cj/jdbc/ConnectionImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="152" selection-start-line="152" selection-end-line="152" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.15/88e2c0d4108b8660ae1f138d70b4be6346eb7665/mysql-connector-java-8.0.15-sources.jar!/com/mysql/cj/protocol/a/result/NativeResultset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -2702,10 +2620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="104" lean-forward="true" selection-start-line="6" selection-start-column="104" selection-end-line="6" selection-end-column="104" />
-          <folding>
-            <element signature="e#270#275#0" expanded="true" />
-            <element signature="e#290#295#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2713,10 +2627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2738,9 +2648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2783,9 +2690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
           <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2793,9 +2697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2803,10 +2704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2838,9 +2735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2848,23 +2742,168 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.5.RELEASE/d39299241a2c8353d83f0f0c84d3677973da7c57/spring-context-5.1.5.RELEASE.jar!/org/springframework/context/config/spring-context.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="213" column="4" selection-start-line="213" selection-start-column="4" selection-end-line="213" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User7ServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="110">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User6ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User5ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User4ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User3ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User2ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/javax/annotation/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1281">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar!/com/oracle/webservices/internal/api/message/PropertySet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.5.RELEASE/9f42597b821f59087bf759695992c5ea8a1fcf0d/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/annotation/PropertySource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-843">
+          <caret line="169" column="18" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/objects/annotations/Property.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User8ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/bean/UserBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/service/impl/User9ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/bean/AddressBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="56" column="66" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIOC/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="16" selection-start-column="4" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAOP/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="20" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#168#169#0" expanded="true" />
             <element signature="e#204#205#0" expanded="true" />
@@ -2872,17 +2911,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIOC/build.gradle">
+    <entry file="file://$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/utils/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/java/com/zwy/ioc/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/SpringAOP/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="110">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAOP/src/main/java/com/zwy/aop/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2891,8 +2941,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringIOC/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="266">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
         </state>
       </provider>
     </entry>

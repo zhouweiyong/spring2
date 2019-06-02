@@ -16,6 +16,8 @@
       <module name="ServiceDemo_test" target="1.8" />
       <module name="spring2_main" target="1.8" />
       <module name="spring2_test" target="1.8" />
+      <module name="SpringAOP_main" target="1.8" />
+      <module name="SpringAOP_test" target="1.8" />
       <module name="SpringIOC_main" target="1.8" />
       <module name="SpringIOC_test" target="1.8" />
       <module name="transaction_main" target="1.8" />

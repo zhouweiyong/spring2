@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <bean id="us" class="com.zwy.aop.service.impl.UserServiceImpl"/>
+    <bean id="logger" class="com.zwy.aop.utils.Logger"/>
+
+    <aop:config>
+        <!--
+        指定扩展的方法
+        execution(* com.zwy.aop.service.impl.*.*(..))
+        execution：固定写法
+        第一个*：表示任意返回值
+        com.zwy.aop.service.impl：表示路径
+        第二个*：表示路径下的任意类
+        第三个*：表示类中的任意方法
+        (..)：表示方法带任意参数
+        -->
+        <aop:pointcut id="login" expression="execution(* com.zwy.aop.service.impl.*.*(..))"/>
+
+        <!--
+        根据login的这个表达式会找到一堆方法（也有可能是一个方法），找到之后，给他们做前置增强
+        增强的功能是Logger这个类中的log方法
+        -->
+        <aop:aspect ref="logger">
+            <aop:before method="log" pointcut-ref="login"/>
+        </aop:aspect>
+    </aop:config>
+
+
+</beans>
