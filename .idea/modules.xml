@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC.iml" group="SpringIOC" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_main.iml" group="SpringIOC" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringIOC/SpringIOC_test.iml" group="SpringIOC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringJPA.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringJPA.iml" group="SpringJPA" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringJPA/SpringJPA_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringJPA/SpringJPA_main.iml" group="SpringJPA" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringJPA/SpringJPA_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringJPA/SpringJPA_test.iml" group="SpringJPA" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c3p0/c3p0.iml" filepath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0.iml" group="c3p0" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c3p0/c3p0_main.iml" filepath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0_main.iml" group="c3p0" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c3p0/c3p0_test.iml" filepath="$PROJECT_DIR$/.idea/modules/c3p0/c3p0_test.iml" group="c3p0" />

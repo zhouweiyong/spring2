@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence
+        version="2.1"
+        xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
+             http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+
+    <!--这是一个单元，也就是在这个单元那里面包含了我们连接数据库，以及表示有哪些实体类和使用什么具体JPA的提供商-->
+    <persistence-unit name="account">
+        <!--指定提供者：JPA是规范，得有具体干活的人-->
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <!--指定有哪些实体类，也就是和数据库的表形成映射关系的类有哪些，都得在这里登记-->
+        <class>com.zwy.jpa.bean.User</class>
+        <class>com.zwy.jpa.bean.Category</class>
+        <class>com.zwy.jpa.bean.Product</class>
+
+        <!--设置连接数据库的参数-->
+        <properties>
+            <property name="javax.persistence.jdbc.url"
+                      value="jdbc:mysql://127.0.0.1:3306/account?serverTimezone=GMT&amp;useUnicode=true&amp;characterEncoding=UTF-8"/>
+            <property name="javax.persistence.jdbc.user" value="root"/>
+            <property name="javax.persistence.jdbc.password" value="123456"/>
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+
+            <!--create:不管有没有表，都一直新建表。-->
+            <!--update：如果有了表，就使用原表，如果没有表，就新建-->
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+            <!--显示操作的sql语句-->
+            <property name="hibernate.show_sql" value="true"/>
+        </properties>
+    </persistence-unit>
+</persistence>
