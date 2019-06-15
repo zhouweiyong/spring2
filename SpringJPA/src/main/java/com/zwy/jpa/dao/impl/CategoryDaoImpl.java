@@ -17,4 +17,12 @@ public class CategoryDaoImpl implements CategoryDao {
         transaction.commit();
         manager.close();
     }
+
+    @Override
+    public Category findById(int id) {
+        EntityManager manager = JPAUtil.getManager();
+        Category category = manager.find(Category.class, id);
+        return category;
+    }
+
 }

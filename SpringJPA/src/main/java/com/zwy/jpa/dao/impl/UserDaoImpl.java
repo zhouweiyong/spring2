@@ -7,6 +7,10 @@ import com.zwy.jpa.utils.JPAUtil;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;
 
+/**
+ * 增删改需开事务
+ * 查找不需要开事务
+ */
 public class UserDaoImpl implements UserDao {
     @Override
     public void add(User user) {

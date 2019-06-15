@@ -8,6 +8,8 @@ import com.zwy.jpa.dao.impl.CategoryDaoImpl;
 import com.zwy.jpa.dao.impl.ProductDaoImpl;
 import org.junit.Test;
 
+import java.util.List;
+
 public class ManyToOneTest {
 
     @Test
@@ -18,9 +20,31 @@ public class ManyToOneTest {
         dao.add(new Category("优盘"));
     }
 
+    //一对多测试
     @Test
-    public void addProduct(){
+    public void addProduct() {
+        ProductDao dao = new ProductDaoImpl();
+        Product product = new Product();
+        product.setName("Redmi note7 pro");
+        CategoryDao cDao = new CategoryDaoImpl();
+        product.setCategory(cDao.findById(20));
+        dao.add(product);
+    }
 
+    @Test
+    public void findCategory(){
+        CategoryDao dao = new CategoryDaoImpl();
+        Category category = dao.findById(20);
+        List<Product> productList = category.getProductList();
+        for (Product product : productList) {
+            System.out.println(product.getId()+" "+product.getName());
+        }
+    }
 
+    @Test
+    public void findProduct(){
+        ProductDao dao = new ProductDaoImpl();
+        Product product = dao.findById(24);
+        System.out.println(product.getId()+" "+product.getName()+" category:"+product.getCategory().getName());
     }
 }

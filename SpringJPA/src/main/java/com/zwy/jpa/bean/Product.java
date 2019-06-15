@@ -29,8 +29,8 @@ public class Product {
     }
 
 //    @ManyToOne(targetEntity = Category.class)
-    //如果不写JoinColumn，hibernate自动创建一个列作为外键，列名为cid_id
-    //通过JoinColumn为外键列命名
+////    如果不写JoinColumn，hibernate自动创建一个列作为外键，列名为cid_id
+////    通过JoinColumn为外键列命名
 //    @JoinColumn(name = "cid")
 //    public int getCid() {
 //        return cid;
