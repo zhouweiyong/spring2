@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/DBUtilsDemo" />
             <option value="$PROJECT_DIR$/ServiceDemo" />
             <option value="$PROJECT_DIR$/SpringAOP" />
+            <option value="$PROJECT_DIR$/SpringDataJPA" />
             <option value="$PROJECT_DIR$/SpringIOC" />
             <option value="$PROJECT_DIR$/SpringJPA" />
             <option value="$PROJECT_DIR$/c3p0" />
